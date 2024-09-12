@@ -161,7 +161,7 @@ How to Run the Project
 
 1.Clone the Repository:
 
-git clone 
+git clone https://github.com/jeny842/Monika.git
 
 
 
